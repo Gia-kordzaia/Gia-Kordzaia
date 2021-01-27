@@ -1,0 +1,5 @@
+"C:\Program Files\Java\jdk-13.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\lib\idea_rt.jar=56268:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\giako\IdeaProjects\Gia-Kordzaia-v1\out\production\Gia-Kordzaia-V1 ge.edu.btu.Payment
+Electricity{customerNumber='1basd123', amount=10.5}
+Water{customerNumber='123', amount=2.3}
+
+Process finished with exit code 0
